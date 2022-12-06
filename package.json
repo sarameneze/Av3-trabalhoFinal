@@ -1,0 +1,23 @@
+{
+  "name": "av3trabalhodenuvem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasCastro21/AV3Trabalhodenuvem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasCastro21/AV3Trabalhodenuvem/issues"
+  },
+  "homepage": "https://github.com/JasCastro21/AV3Trabalhodenuvem#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
