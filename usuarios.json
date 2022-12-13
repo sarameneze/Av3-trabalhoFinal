@@ -46,5 +46,13 @@
     "senha": "12345",
     "email": "jasminecastro3@gmail.com",
     "cpf": "0000000"
+  },
+  {
+    "id": 7,
+    "nome": "jasmin",
+    "login": "jas",
+    "senha": "123456",
+    "email": "jasminecastro3@gmail.com",
+    "cpf": "dededed"
   }
 ]

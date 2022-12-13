@@ -168,6 +168,19 @@ server.get('/objetivos', (req, res) => {
     res.sendFile(__dirname + "/html/objetivos.html");
 });
 
+server.get('/excluir', (req, res) => {
+    res.sendFile(__dirname + "/html/excluir.html");
+});
+
+server.get('/mulheres', (req, res) => {
+    res.sendFile(__dirname + "/html/mulheres.html");
+});
+
+server.get('/marcar', (req, res) => {
+    res.sendFile(__dirname + "/html/marcar.html");
+});
+
+
 
 
 server.listen(3000, () => {
