@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "joao",
+    "login": "jp",
+    "senha": 123,
+    "email": "jp@email.com",
+    "cpf": 12345
+  },
+  {
+    "id": 2,
+    "nome": "pedro",
+    "login": "p1",
+    "senha": 12345,
+    "email": "p1@email.com",
+    "cpf": 123456
+  },
+  {
+    "id": 3,
+    "nome": "joao",
+    "login": "jp",
+    "senha": "123",
+    "email": "085",
+    "cpf": "jpc"
+  },
+  {
+    "id": 4,
+    "nome": "joao",
+    "login": "jp",
+    "senha": "3421",
+    "email": "085",
+    "cpf": "jpc"
+  },
+  {
+    "id": 5,
+    "nome": "wsfefds",
+    "login": "gsdgs",
+    "senha": "123",
+    "email": "085",
+    "cpf": "fsdfa"
+  },
+  {
+    "id": 6,
+    "nome": "jasmine",
+    "login": "jasmine",
+    "senha": "12345",
+    "email": "jasminecastro3@gmail.com",
+    "cpf": "0000000"
+  }
+]
